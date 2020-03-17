@@ -6,7 +6,7 @@
 
 *For a selection of 5 inventor kit experiments that you choose, fill out the following sections.
 
-### hello ###
+### Say "hello" to the BBC micro:bit ###
 
 (Replace this with the experiment name)
 
@@ -51,7 +51,7 @@ This experiment could be the basis of a real world application such as (insert s
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](experiment1.jpg)
 
 (Insert a caption here)
 
