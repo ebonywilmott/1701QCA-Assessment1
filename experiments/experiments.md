@@ -13,7 +13,10 @@
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
-![Image](missingimage.png)
+20200316_234147.jpeg
+
+Find file Copy path
+@ebonywilmott
 
 (Insert a caption here)
 
